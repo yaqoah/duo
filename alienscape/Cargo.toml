@@ -1,0 +1,13 @@
+[package]
+name="alienscape"
+version= "0.1.0"
+authors = ["ahmed <balo7amo@gmail.com>"]
+edition= "2021"
+
+[dependencies]
+crossbeam-channel = "0.5.2"
+crossbeam-utils = "0.8.7"
+mint = "0.5.9"
+ab_glyph = "0.2.15"
+rand = "0.8.5"
+ggez = "0.7"
